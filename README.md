@@ -5,9 +5,6 @@ I'm a computer science student passionate about building modern web apps with Re
 <h1 align="center">Hi 👋, I'm Kasra Ebrahimi</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasra-ebr&label=Profile%20views&color=0e75b6&style=flat" alt="kasra-ebr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasra-ebr" alt="kasra-ebr" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS, MongoDb**
 
