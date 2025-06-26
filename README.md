@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammadamin (Kasra) Ebrahimi
 
-<!--
-**Kasra-ebr/Kasra-ebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student passionate about building modern web apps with React, TypeScript, and a touch of creativity.
 
-Here are some ideas to get you started:
+## 💼 Projects
+- ✈️ TravelBookingApp – Real-time hotel booking app
+- 📚 BookStore – Modern UI + local storage favorites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+- UI/UX design
+- Full-stack development
+- Open source collaboration
+
+## 📫 Connect
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💌 kasra@email.com
