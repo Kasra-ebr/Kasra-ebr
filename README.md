@@ -1,40 +1,46 @@
-# 👋 Hey, I'm Mohammadamin (Kasra) Ebrahimi
+<!-- Profile header with waving emoji GIF -->
+<h1 align="center">
+  Hi there! 👋 I'm Kasra Ebrahimi
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F17300&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+Canada;React+%2F+Next.js+Enthusiast;TypeScript+%7C+MongoDB+%7C+Tailwind+Lover;Always+building+something+new" alt="Typing SVG">
+</h1>
 
-🎓 A Computer Science student from Canada | 🌐 Frontend Developer | ⚛️ React & TypeScript Enthusiast
-
-I'm passionate about building beautiful, responsive, and scalable web applications using modern tools like React, TypeScript, and TailwindCSS. I enjoy turning ideas into clean, interactive UIs that provide great user experiences.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Currently exploring: **Next.js**, **MongoDB**, and **Full Stack Development**
-- 📫 Reach me at: **Kasraebr1378@gmail.com**
-- 🌐 Portfolio: [www.Kasraebr.com](https://www.Kasraebr.com)
-- 🧠 Always learning and building new things
+- 🎓 CS Student from 🇨🇦
+- 🌱 Currently learning: **Next.js**, **MongoDB**
+- 🧠 Interests: UI Design, API Architecture, Performance Optimization
+- 🔗 Portfolio: [www.Kasraebr.com](https://www.Kasraebr.com)
+- 📫 Reach me: **Kasraebr1378@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-### 🌐 Frontend
+### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,bootstrap" height="40" />
 </p>
 
-### 🧠 Backend & APIs
+### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postman" height="40" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🔨 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,webpack" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,webpack" height="40" />
 </p>
 
-### 📚 Other Skills
+### 🎨 Other Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,photoshop,illustrator,blender" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,java,photoshop,illustrator,blender" height="40" />
 </p>
 
 ---
@@ -42,22 +48,26 @@ I'm passionate about building beautiful, responsive, and scalable web applicatio
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasra-ebr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasra-ebr&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasra-ebr&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasra-ebr&layout=compact&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasra-ebr&theme=radical" alt="GitHub Streak" />
-</p>
+---
+
+## 🛠️ Currently Working On
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasra-ebr&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github.com/kasra-ebr/kasra-ebr/blob/main/assets/working-on.gif" alt="Working on GIF" width="300"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect!
 
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/kasra-ebrahimi" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
