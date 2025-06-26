@@ -1,24 +1,22 @@
 <!-- Profile header with waving emoji GIF -->
-
 <p align="center">
-  <img src="https://i.gifer.com/75ez.gif" alt="Coding animation" width="800"/> 
+  <img src="https://i.gifer.com/75ez.gif" alt="Coding animation" width="700"/> 
 </p>
+
 <h1 align="center">
   Hi there! 👋 I'm Kasra Ebrahimi
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F17300&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+Canada;React+%2F+Next.js+Enthusiast;TypeScript+%7C+MongoDB+%7C+Tailwind+Lover;Always+building+something+new" alt="Typing SVG">
 </h1>
 
-
-
 ---
 
 ## 🚀 About Me
 
-- 🎓 CS Student from Toronto Metropolitan University 
-- 🌱 Currently learning: **Next.js**, **MongoDB**
-- 🧠 Interests: UI Design, API Architecture, Performance Optimization
-- 🔗 Portfolio: [www.Kasraebr.com](https://www.Kasraebr.com)
+- 🎓 CS Student from Toronto Metropolitan University  
+- 🌱 Currently learning: **Next.js**, **MongoDB**  
+- 🧠 Interests: UI Design, API Architecture, Performance Optimization  
+- 🔗 Portfolio: [www.Kasraebr.com](https://www.Kasraebr.com)  
 - 📫 Reach me: **Kasraebr1378@gmail.com**
 
 ---
@@ -49,13 +47,15 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasra-ebr&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasra-ebr&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasra-ebr&layout=compact&theme=radical" width="48%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kasra-ebr&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kasra-ebr&theme=gruvbox&hide_border=true" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasra-ebr&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
