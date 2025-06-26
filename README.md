@@ -1,7 +1,7 @@
 <!-- Profile header with waving emoji GIF -->
 
 <p align="center">
-  <img src="https://i.gifer.com/Dx.gif" alt="Coding animation" width="800"/>
+  <img src="https://i.gifer.com/75ez.gif" alt="Coding animation" width="800"/> 
 </p>
 <h1 align="center">
   Hi there! 👋 I'm Kasra Ebrahimi
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 CS Student from 🇨🇦
+- 🎓 CS Student from Toronto Metropolitan University 
 - 🌱 Currently learning: **Next.js**, **MongoDB**
 - 🧠 Interests: UI Design, API Architecture, Performance Optimization
 - 🔗 Portfolio: [www.Kasraebr.com](https://www.Kasraebr.com)
