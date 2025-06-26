@@ -6,7 +6,7 @@
 <h1 align="center" style="margin-bottom: 10px;">
   Hi there! 👋 I'm Kasra Ebrahimi
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F17300&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+Canada;React+%2F+Next.js+Enthusiast;TypeScript+%7C+Tailwind;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F17300&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+Canada;React+%2F+JavaScript+Enthusiast;TypeScript+%7C+Tailwind;Always+building+something+new" alt="Typing SVG" />
 </h1>
 
 <hr style="margin: 30px auto; width: 80%; border-color: #f17300;"/>
