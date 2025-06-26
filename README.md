@@ -1,6 +1,6 @@
 <!-- Profile header with waving emoji GIF -->
 <p align="center" style="margin-top: 30px; margin-bottom: 20px;">
-  <img src="https://i.gifer.com/75ez.gif" alt="Coding animation" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" /> 
+  <img src="https://i.gifer.com/75ez.gif" alt="Coding animation" width="500" height="300" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" /> 
 </p>
 
 <h1 align="center" style="margin-bottom: 10px;">
