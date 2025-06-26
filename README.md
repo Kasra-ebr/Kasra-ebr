@@ -1,7 +1,7 @@
 <!-- Profile header with waving emoji GIF -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding animation" width="800"/>
+  <img src="https://i.gifer.com/Dx.gif" alt="Coding animation" width="800"/>
 </p>
 <h1 align="center">
   Hi there! 👋 I'm Kasra Ebrahimi
