@@ -1,6 +1,6 @@
 <!-- Profile header with waving emoji GIF -->
 <p align="center" style="margin-top: 30px; margin-bottom: 20px;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVlaGswb2hpaHZ4YXRpZnRtMnQ1ajRwcmNlaThobWEyd2ZvMXR3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Coding animation" width="500" height="300" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" /> 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ254MW5rZ201a3dzc3Nma3Nidm1sa25rb3U1anl2cGV4Z3BtZmx3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" alt="Coding animation" width="500" height="300" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" /> 
 </p>
 
 <h1 align="center" style="margin-bottom: 10px;">
