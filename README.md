@@ -38,10 +38,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,webpack" height="40" style="margin-right:10px;" />
 </p>
 
-### 🎨 Other Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,photoshop,illustrator,blender" height="40" style="margin-right:10px;" />
-</p>
 
 ---
 
