@@ -16,7 +16,7 @@
 - 🎓 CS Student from Toronto Metropolitan University  
 - 🌱 Currently learning: **Next.js**, **MongoDB**  
 - 🧠 Interests: UI Design, API Architecture, Performance Optimization  
-- 🔗 Portfolio: [www.Kasraebr.com](https://www.Kasraebr.com)  
+- 🔗 Portfolio: [kasraebr.vercel.app](https://kasraebr.vercel.app)  
 - 📫 Reach me: **Kasraebr1378@gmail.com**
 
 ---
